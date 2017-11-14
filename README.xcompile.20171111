@@ -226,10 +226,6 @@ https://savannah.nongnu.org/support/download.php?file_id=32171
 --prefix=$CROSSDIR
 > make; make install; [rehash]
 
-> ../configure CPPFLAGS="-I/opt/local/include" LDFLAGS="-L/opt/local/lib" \
---prefix=$CROSSDIR
-> make; make install; [rehash]
-
 The Olimex AVR-ISP-MK2 has firmware suited for 'AVR Studio'. for use with
 avrdude, the firmware of the device must be updated via 'dfu-programmer'.
 Olimex provides a firmware update: 'libUSB-AVRISP-MKII.hex'

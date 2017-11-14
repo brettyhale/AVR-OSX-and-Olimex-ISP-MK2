@@ -1,1 +1,1 @@
-Build instructions for the AVR GNU toolchain (avr-gcc), AVRDUDE for OS X, and the Olimex-ISP-MK2 firmware update.
+OS X build instructions for the AVR GNU toolchain (avr-gcc), AVRDUDE, and the Olimex-ISP-MK2 firmware update.
